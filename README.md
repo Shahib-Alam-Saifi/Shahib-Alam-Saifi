@@ -114,17 +114,22 @@ A collection of HTML, CSS, Git and GitHub practical assignments and projects.
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahib-Alam-Saifi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shahib-Alam-Saifi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahib-Alam-Saifi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Shahib-Alam-Saifi&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Shahib-Alam-Saifi&theme=tokyonight&hide_border=true" />
 
 </div>
+
+
+---
+
 
 ---
 
@@ -132,9 +137,12 @@ A collection of HTML, CSS, Git and GitHub practical assignments and projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahib-Alam-Saifi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahib-Alam-Saifi&theme=tokyonight" width="100%" />
 
 </div>
+
+---
+
 
 ---
 
